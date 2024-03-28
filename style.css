@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: aliceblue;
+}
+
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h1{
+    border-bottom: 3px solid aliceblue;
+    width: 30%;
+    margin: auto;
+
+}
+
+div{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h2{
+    color: aliceblue;
+}
+
+.image{
+    width: 25%;
+    border-radius: 150px;
+    padding: 35px;
+
+}
+
+p{
+    width: 75%;
+    margin: auto;
+}
